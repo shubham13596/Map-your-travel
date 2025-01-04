@@ -1,7 +1,5 @@
 # Map Your Travel
 
-<img src="path-to-your-store-icon.png" width="128" height="128" alt="Map Your Travel Logo">
-
 A Chrome extension that automatically extracts travel locations from any webpage and displays them on Google Maps with just one click.
 
 ## 🌟 Features
